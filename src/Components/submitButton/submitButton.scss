@@ -1,0 +1,19 @@
+.submit-button {
+  width: 174px;
+  height: 32px;
+  border: none;
+  outline: none;
+  margin-bottom: 25px;
+
+  font-size: 12px;
+  line-height: 14px;
+
+  color: #315b60;
+  background-color: #cce6e8;
+  margin-right: 30px;
+
+  &:hover {
+    background-color: #6fe2eb;
+  }
+  
+}

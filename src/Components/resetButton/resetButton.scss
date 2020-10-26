@@ -1,0 +1,19 @@
+.reset-button {
+  width: 174px;
+  height: 32px;
+  border: none;
+  outline: none;
+  margin-bottom: 25px;
+
+  font-size: 12px;
+  line-height: 14px;
+  color: #2b2b2b;
+
+  background-color: #dcdcdc;
+
+  &:hover {
+    background-color: #bab5b5;
+  }
+}
+
+
